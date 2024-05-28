@@ -6,9 +6,9 @@ Perform basic arithmetic operations: addition, subtraction, multiplication, and 
 User-friendly interface with clear input and output display.
 
 Technologies Used
-HTML5: Defines the structure and content of the calculator.
-CSS3: Styles the calculator's visual appearance.
-JavaScript: Handles user interactions and performs calculations.
+# HTML5: Defines the structure and content of the calculator.
+# CSS3: Styles the calculator's visual appearance.
+3 JavaScript: Handles user interactions and performs calculations.
 
 Getting Started
 Clone this repository to your local machine.
