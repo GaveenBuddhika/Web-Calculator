@@ -25,3 +25,5 @@
 - Suggesting new features or improvements.
 - Reporting any bugs or issues.
 - Submitting pull requests with code changes.
+
+![project3](https://github.com/GaveenBuddhika/Web-Calculator/assets/118238999/341c25d1-9972-4d6d-956b-27e3abf05d95)
